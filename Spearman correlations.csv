@@ -1,0 +1,73 @@
+Variable 1,Variable 2,Coeficiente,p-valor
+E_nodes,E_links,"0,802","0,0002"
+E_nodes,E_mean_betweenness_centrality,"-0,656","0,0058"
+E_nodes,AMT_ (UFC.100mL-1),"0,615","0,0112"
+E_links,E_avg_degree,"0,774","0,0004"
+E_links,F_max_trophic_level,"0,734","0,0012"
+E_links,F_modularity,"0,64","0,0076"
+E_connectance,E_avg_trophic_level,"0,762","0,0006"
+E_connectance,E_modularity,"-0,706","0,0022"
+E_connectance,E_mean_degree_centrality,1,0
+E_connectance,E_mean_betweenness_centrality,"0,699","0,0026"
+E_connectance,F_connectance,"0,863",0
+E_connectance,F_avg_degree,"0,869",0
+E_connectance,F_mean_degree_centrality,"-0,798","0,0002"
+E_connectance,F_mean_betweenness_centrality,"0,869",0
+E_connectance,Alkalinity_(mg CaCO3.L-1),"0,855","0,0004"
+E_connectance,AMT_ (UFC.100mL-1),"-0,635","0,0082"
+E_avg_degree,E_modularity,"-0,626","0,0094"
+E_avg_degree,F_links,"0,738","0,0011"
+E_avg_degree,F_avg_trophic_level,"0,798","0,0002"
+E_avg_degree,F_modularity,"0,741","0,001"
+E_avg_degree,F_mean_degree_centrality,"-0,71","0,0021"
+E_avg_degree,DO_%,"0,654","0,0082"
+E_avg_trophic_level,E_mean_degree_centrality,"0,762","0,0006"
+E_avg_trophic_level,F_connectance,"0,739","0,0011"
+E_avg_trophic_level,F_avg_degree,"0,73","0,0013"
+E_avg_trophic_level,F_mean_degree_centrality,"-0,757","0,0007"
+E_avg_trophic_level,F_mean_betweenness_centrality,"0,73","0,0013"
+E_avg_trophic_level,Water_tranparency_(m),"0,618","0,0107"
+E_avg_trophic_level,Alkalinity_(mg CaCO3.L-1),"0,683","0,0144"
+E_avg_trophic_level,AMT_ (UFC.100mL-1),"-0,679","0,0038"
+E_max_trophic_level,Water_temperature_(ºC),"0,63","0,0089"
+E_modularity,E_mean_degree_centrality,"-0,706","0,0022"
+E_modularity,F_connectance,"-0,615","0,0112"
+E_modularity,F_avg_degree,"-0,639","0,0078"
+E_modularity,F_mean_degree_centrality,"0,609","0,0123"
+E_modularity,F_mean_betweenness_centrality,"-0,639","0,0078"
+E_modularity,Alkalinity_(mg CaCO3.L-1),"-0,602","0,0382"
+E_mean_degree_centrality,E_mean_betweenness_centrality,"0,699","0,0026"
+E_mean_degree_centrality,F_connectance,"0,863",0
+E_mean_degree_centrality,F_avg_degree,"0,869",0
+E_mean_degree_centrality,F_mean_degree_centrality,"-0,798","0,0002"
+E_mean_degree_centrality,F_mean_betweenness_centrality,"0,869",0
+E_mean_degree_centrality,Alkalinity_(mg CaCO3.L-1),"0,855","0,0004"
+E_mean_degree_centrality,AMT_ (UFC.100mL-1),"-0,635","0,0082"
+F_nodes,F_links,"0,705","0,0016"
+F_links,F_connectance,"0,677","0,0028"
+F_links,F_avg_degree,"0,643","0,0054"
+F_links,F_avg_trophic_level,"0,912",0
+F_links,F_max_trophic_level,"0,619","0,0081"
+F_links,F_modularity,"0,661","0,0039"
+F_links,F_mean_betweenness_centrality,"0,643","0,0054"
+F_links,COD_(mg.L-1),"-0,676","0,008"
+F_connectance,F_avg_degree,"0,998",0
+F_connectance,F_avg_trophic_level,"0,81","0,0001"
+F_connectance,F_mean_degree_centrality,"-0,617","0,0084"
+F_connectance,F_mean_betweenness_centrality,"0,998",0
+F_connectance,COD_(mg.L-1),"-0,6","0,0232"
+F_avg_degree,F_avg_trophic_level,"0,778","0,0002"
+F_avg_degree,F_mean_degree_centrality,"-0,604","0,0102"
+F_avg_degree,F_mean_betweenness_centrality,1,0
+F_avg_trophic_level,F_modularity,"0,746","0,0006"
+F_avg_trophic_level,F_mean_betweenness_centrality,"0,778","0,0002"
+F_max_trophic_level,F_modularity,"0,742","0,0006"
+F_max_trophic_level,Air_temperature_(ºC),"0,664","0,0036"
+F_modularity,Air_temperature_(ºC),"0,743","0,0006"
+F_mean_degree_centrality,F_mean_betweenness_centrality,"-0,604","0,0102"
+F_mean_degree_centrality,COD_(mg.L-1),"0,609","0,0208"
+Water_temperature_(ºC),TC_NMP.100mL-2,"0,605","0,013"
+pH,Chlorophyll-a_(µg.L-1),"0,737","0,0011"
+DO_(mg.L-1) ,DO_%,"0,979",0
+Deep_(m),Chlorophyll-a_(µg.L-1),"-0,64","0,0076"
+Alkalinity_(mg CaCO3.L-1),SRP_(µg.L-1),"-0,655","0,0208"

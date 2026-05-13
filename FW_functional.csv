@@ -1,0 +1,44 @@
+source,target
+microbial heterotroph,DOM
+mixotrophic phytoplankton,DOM
+facultative mixotrophic phytoplankton,DOM
+consumer,FPOM
+consumer,microbial heterotroph
+consumer,autotrophic phytoplankton
+consumer,mixotrophic phytoplankton
+consumer,facultative mixotrophic phytoplankton
+consumer,periphyton
+predator,consumer
+predator,gathering collector
+gathering collector,FPOM
+scraper,CPOM
+scraper,FPOM
+scraper,periphyton
+scraper,autotrophic phytoplankton
+scraper,facultative mixotrophic phytoplankton
+filtering collector,FPOM
+filtering collector,microbial heterotroph
+filtering collector,autotrophic phytoplankton
+filtering collector,mixotrophic phytoplankton
+filtering collector,facultative mixotrophic phytoplankton
+scraper,mixotrophic phytoplankton
+gathering collector,periphyton
+predator,scraper
+scraper,gathering collector
+scraper,consumer
+gathering collector,CPOM
+detritivorous,FPOM
+detritivorous,periphyton
+omnivorous,FPOM
+omnivorous,periphyton
+omnivorous,gathering collector
+omnivorous,consumer
+carnivorous,gathering collector
+carnivorous,consumer
+carnivorous,predator
+carnivorous,scraper
+omnivorous,scraper
+omnivorous,filtering collector
+carnivorous,filtering collector
+carnivorous,detritivorous
+carnivorous,omnivorous

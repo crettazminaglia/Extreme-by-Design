@@ -1,0 +1,106 @@
+ID,node,species,genus,family,order,class,phylum,resolution,category,FunctionalGroup
+1,CPOM,NA,NA,NA,NA,NA,NA,NA,CPOM,Detritus
+2,FPOM,NA,NA,NA,NA,NA,NA,NA,FPOM,Detritus
+3,DOM,NA,NA,NA,NA,NA,NA,NA,DOM,Detritus
+4,Bacterioplankton,NA,NA,NA,NA,NA,NA,NA,microbial heterotroph,Baterioplankton
+5,Pediastrum,NA,Pediastrum,Hydrodictyaceae ,Sphaeropleales ,Chlorophyceae ,Chlorophyta,genus,"
+autotrophic phytoplankton",Basal
+6,Chlorella,NA,Chlorella,Chlorellaceae,Chlorellales,Trebouxiophyceae,Chlorophyta,genus,"
+autotrophic phytoplankton",Basal
+7,Scenedesmus,NA,Scenedesmus,Scenedesmaceae,Sphaeropleales,Chlorophyceae,Chlorophyta,genus,"
+autotrophic phytoplankton",Basal
+8,Coelastrum,NA,Coelastrum,Scenedesmaceae,Sphaeropleales,Chlorophyceae ,Chlorophyta,genus,"
+autotrophic phytoplankton",Basal
+9,Closterium,NA,Closterium,Closteriaceae,Desmidiales,Zygnematophyceae,Charophyta,genus,"
+autotrophic phytoplankton",Basal
+10,Mougeotia,NA,Mougeotia,Zygnemataceae,Zygnematales,Zygnematophyceae,Charophyta,genus,"
+autotrophic phytoplankton",Basal
+11,Cosmarium,NA,Cosmarium,Zygnemataceae,Desmidiales,Zygnematophyceae,Charophyta,genus,"
+autotrophic phytoplankton",Basal
+12,Dyctiosphaerium,NA,Dyctiosphaerium,Chlorellaceae,Chlorellales,Trebouxiophyceae,Chlorophyta,genus,"
+autotrophic phytoplankton",Basal
+13,Staurastrum,NA,Staurastrum,Desmidiaceae,Desmidiales,Zygnematophyceae,Charophyta,genus,"
+autotrophic phytoplankton",Basal
+14,Eudorina,NA,Eudorina,Volvocaceae,Chlamydomonadales,Chlorophyceae ,Chlorophyta,genus,"
+autotrophic phytoplankton",Basal
+15,Tetrastrum,NA,Tetrastrum,Scenedesmaceae,Sphaeropleales,Chlorophyceae ,Chlorophyta,genus,"
+autotrophic phytoplankton",Basal
+16,Schroederia,NA,Schroederia,Schroederiaceae,Sphaeropleales,Chlorophyceae ,Chlorophyta,genus,"
+autotrophic phytoplankton",Basal
+17,Tetraedron,NA,Tetraedron,Hydrodictyaceae ,Sphaeropleales ,Chlorophyceae ,Chlorophyta,genus,"
+autotrophic phytoplankton",Basal
+18,Sphaerocystis,NA,Sphaerocystis,Sphaerocystidaceae,Chlamydomonadales,Chlorophyceae ,Chlorophyta,genus,"
+autotrophic phytoplankton",Basal
+19,Staurodesmus,NA,Staurodesmus,Desmidiaceae,Desmidiales,Zygnematophyceae,Chlorophyta,genus,"
+autotrophic phytoplankton",Basal
+20,Ankyra,NA,Ankyra,Characiaceae ,Sphaeropleales ,Chlorophyceae ,Chlorophyta,genus,"
+autotrophic phytoplankton",Basal
+21,Crucigenia,NA,Crucigenia,Scenedesmaceae,Chlorococcales,Trebouxiophyceae,Chlorophyta,genus,"
+autotrophic phytoplankton",Basal
+22,Phacus,NA,Phacus,Phacaceae,Euglenida,Euglenophyceae,Euglenophyta,genus,mixotrophic phytoplankton,Basal
+23,Euglena,NA,Euglena,Phacaceae,Euglenida,Euglenophyceae,Euglenophyta,genus,mixotrophic phytoplankton,Basal
+24,Trachelomonas,NA,Trachelomonas,Euglenidae,Euglenida,Euglenophyceae,Euglenophyta,genus,mixotrophic phytoplankton,Basal
+25,Strombomonas,NA,Strombomonas,Euglenidae,Euglenida,Euglenophyceae,Euglenophyta,genus,mixotrophic phytoplankton,Basal
+26,Lepocinclis,NA,Lepocinclis,Phacaceae,Euglenida,Euglenophyceae,Euglenophyta,genus,mixotrophic phytoplankton,Basal
+27,Colacium,NA,Colacium,Euglenaceae,Euglenida,Euglenophyceae,Euglenophyta,genus,mixotrophic phytoplankton,Basal
+28,Navícula,NA,Navicula,Naviculaceae,Naviculales,Bacillariophyceae,Bacillariophyta,genus,facultative mixotrophic phytoplankton,Basal
+29,Gomphonema,NA,Gomphonema,Gomphonemataceae,Cymbellales,Bacillariophyceae,Bacillariophyta,genus,facultative mixotrophic phytoplankton,Basal
+30,Amphipleura,NA,Amphipleura,Amphipleuraceae,Naviculales,Bacillariophyceae,Bacillariophyta,genus,facultative mixotrophic phytoplankton,Basal
+31,Fragilaria,NA,Fragilaria,Fragilariaceae,Fragilariales,Bacillariophyceae,Bacillariophyta,genus,facultative mixotrophic phytoplankton,Basal
+32,Nitzschia,NA,Nitzschia,Bacillariaceae,Bacillariales,Bacillariophyceae,Bacillariophyta,genus,facultative mixotrophic phytoplankton,Basal
+33,Sellaphora,NA,Sellaphora,Sellaphoraceae,Naviculales,Bacillariophyceae,Bacillariophyta,genus,facultative mixotrophic phytoplankton,Basal
+34,Pinnularia,NA,Pinnularia,Pinnulariaceae,Naviculales,Bacillariophyceae,Bacillariophyta,genus,facultative mixotrophic phytoplankton,Basal
+35,Aulacoseira,NA,Aulacoseira,Aulacoseiraceae,Aulacoseirales,Bacillariophyceae,Bacillariophyta,genus,facultative mixotrophic phytoplankton,Basal
+36,Reimeria,NA,Reimeria,Gomphonemataceae,Cymbellales,Bacillariophyceae,Bacillariophyta,genus,facultative mixotrophic phytoplankton,Basal
+37,Cymbella,NA,Cymbella,Cymbellaceae,Cymbellales,Bacillariophyceae,Bacillariophyta,genus,facultative mixotrophic phytoplankton,Basal
+38,Gomphoneis,NA,Gomphoneis,Gomphonemataceae,Cymbellales,Bacillariophyceae,Bacillariophyta,genus,facultative mixotrophic phytoplankton,Basal
+39,Hantzschia,NA,Hantzschia,Bacillariaceae,Bacillariales,Bacillariophyceae,Bacillariophyta,genus,facultative mixotrophic phytoplankton,Basal
+40,Geissleria,NA,Geissleria,Cymbellaceae,Cymbellales,Bacillariophyceae,Bacillariophyta,genus,facultative mixotrophic phytoplankton,Basal
+41,Surirella,NA,Surirella,Surirellaceae,Surirellales,Bacillariophyceae,Bacillariophyta,genus,facultative mixotrophic phytoplankton,Basal
+42,Diatoma,NA,Diatoma,Tabellariaceae,Rhabdonematales,Bacillariophyceae,Bacillariophyta,genus,facultative mixotrophic phytoplankton,Basal
+43,Cyclotella,NA,Cyclotella,Stephanodiscaceae,Thalassiosirales,Bacillariophyceae,Bacillariophyta,genus,facultative mixotrophic phytoplankton,Basal
+44,Caloneis,NA,Caloneis,Naviculaceae,Naviculales,Bacillariophyceae,Bacillariophyta,genus,facultative mixotrophic phytoplankton,Basal
+45,Gyrosigma,NA,Gyrosigma,Pleurosigmataceae,Naviculales,Bacillariophyceae,Bacillariophyta,genus,facultative mixotrophic phytoplankton,Basal
+46,Diploneis,NA,Diploneis,Diploneidaceae,Naviculales,Bacillariophyceae,Bacillariophyta,genus,facultative mixotrophic phytoplankton,Basal
+47,Ceratium,NA,Ceratium,Ceratiaceae,Gonyaulacales,Dinophyceae,Dinophyta,genus,facultative mixotrophic phytoplankton,Basal
+48,Gymnodinium,NA,Gymnodinium,Gymnodiniaceae,Gymnodiniales,Dinophyceae,Dinophyta,genus,facultative mixotrophic phytoplankton,Basal
+49,Spirulina,NA,Spirulina,Spirulinaceae,Spirulinales,Cyanophyceae,Cyanobacteria,genus,"
+autotrophic phytoplankton",Basal
+50,Merismopedia,NA,Merismopedia,Merismopediaceae,Synechococcales,Cyanophyceae,Cyanobacteria,genus,"
+autotrophic phytoplankton",Basal
+51,Aphanocapsa,NA,Aphanocapsa,Merismopediaceae,Synechococcales,Cyanophyceae,Cyanobacteria,genus,"
+autotrophic phytoplankton",Basal
+52,Chroocuccus,NA,Chroocuccus,Chroococcaceae,Chroococcales,Cyanophyceae,Cyanobacteria,genus,"
+autotrophic phytoplankton",Basal
+53,Dolichospermum,NA,Dolichospermum,Aphanizomenonaceae,Nostocales,Cyanophyceae,Cyanobacteria,genus,"
+autotrophic phytoplankton",Basal
+54,Pseudanabaena,NA,Pseudanabaena,Pseudanabaenaceae,Synechococcales,Cyanophyceae,Cyanobacteria,genus,"
+autotrophic phytoplankton",Basal
+55,Microcystis,NA,Microcystis,Microcystaceae,Chroococcales,Cyanophyceae,Cyanobacteria,genus,"
+autotrophic phytoplankton",Basal
+56,Periphyton,NA,NA,NA,NA,NA,NA,NA,periphyton,Basal
+57,Copepod,NA,NA,NA,NA,Maxillopoda,Arthropoda,Subclass,consumer,Zooplankton
+58,Hirudinea,NA,NA,NA,Hirudinea,Clitellata,Annelida,subclass,predator,Macroinvertebrate
+59,Oligochaeta,NA,NA,NA,Oligochaeta,Clitellata,Annelida,subclass,gathering collector,Macroinvertebrate
+60,Ampullariidae,NA,NA,Ampullariidae,Architaenioglossa,Gastropoda,Mollusca,family,scraper,Macroinvertebrate
+61,Sphaeriidae,NA,NA,Sphaeriidae,Sphaeriida,Bivalvia,Mollusca,Family,filtering collector,Macroinvertebrate
+62,Cochliopidae,NA,NA,Cochliopidae,Sorbeoconcha,Gastropoda,Mollusca,Family,scraper,Macroinvertebrate
+63,Chironomidae,NA,NA,Chironomidae,Diptera ,Insecta ,Arthropoda ,Family,gathering collector,Macroinvertebrate
+64,Hyriidae,NA,NA,Hyriidae,Unionida,Bivalvia,Mollusca,Family,filtering collector,Macroinvertebrate
+65,Hydrophilidae larvae,NA,NA,Hydrophilidae,Coleoptera,Insecta ,Arthropoda,Family,predator,Macroinvertebrate
+66,Hydrophilidae adult,NA,NA,Hydrophilidae,Coleoptera,Insecta ,Arthropoda,Family,gathering collector,Macroinvertebrate
+67,Belostomatidae,NA,NA,Belostomatidae,Hemiptera,Insecta ,Arthropoda,Family,predator,Macroinvertebrate
+68,Mycetopodidae,NA,NA,Mycetopodidae,Unionida,Bivalvia,Mollusca,Family,filtering collector,Macroinvertebrate
+69,Corbiculidae,NA,NA,Corbiculidae,Veneroida,Bivalvia,Mollusca,Family,filtering collector,Macroinvertebrate
+70,Corixidae,NA,NA,Corixidae,Hemiptera,Insecta ,Arthropoda,Family,scraper,Macroinvertebrate
+71,Ancylini,NA,NA,Planorbidae,Basommatophora,Gastropoda ,Mollusca,Tribe,scraper,Macroinvertebrate
+72,Hyalellidae,NA,NA,Hyalellidae,Amphipoda,Malacostraca,Arthropoda,Family,gathering collector,Macroinvertebrate
+73,Palaemonidae,NA,NA,Palaemonidae,Decapoda,Malacostraca,Arthropoda,Family,omnivorous,Macroinvertebrate
+74,Planorbidae,NA,NA,Planorbidae,Basommatophora,Gastropoda ,Mollusca,Family,scraper,Macroinvertebrate
+75,Physidae,NA,NA,Physidae,Basommatophora,Gastropoda ,Mollusca,Family,scraper,Macroinvertebrate
+76,Prochilodus_lineatus,Prochilodus lineatus,Prochilodus,Prochilodontidae,Characiformes,Actinopterygii,Chordata,Species,detritivorous,Fish
+77,Astyanax_sp,NA,Astyanax,Characidae,Characiformes,Actinopterygii,Chordata,Genus,omnivorous,Fish
+78,Hypostomus_commersoni,Hypostomus commersoni,Hypostomus,Loricariidae,Siluriformes,Actinopterygii,Chordata,Species,detritivorous,Fish
+79,Trachemys_dorbigni_juvenile,Trachemys dorbigni,Trachemys,Emydidae,Testudines,Reptilia,Chordata,Species,carnivorous,Reptile
+80,Trachemys_dorbigni_adult,Trachemys dorbigni,Trachemys,Emydidae,Testudines,Reptilia,Chordata,Species,omnivorous,Reptile
+81,Phrynops_hilarii,Phrynops hilarii,Phrynops,Chelidae,Testudines,Sauropsida,Chordata,Species,carnivorous,Reptile

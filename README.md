@@ -17,6 +17,7 @@ Core audited inputs include:
 - `FW_lagoon_food_web_by_sampling_AUDITED.csv`
 - `FW_lagoon_food_web_metrics_by_sampling_AUDITED.csv`
 - `FW_lagoon_functional_links_AUDITED.csv`
+- `stage4A_pairwise_dissimilarity.csv`
 
 Notebook 2 consumes intermediate outputs produced within its own workflow and taxonomic outputs produced by Notebook 1. Notebook 3 uses turnover outputs from Notebook 2 and observed network-metric outputs from Notebooks 1–2. Running the notebooks in numerical order is therefore recommended.
 
